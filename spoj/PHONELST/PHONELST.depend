@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1494143963 source:c:\users\hp\codeblocks\phonelst\main.cpp
+	<bits/stdc++.h>
+	<algorithm>
+
